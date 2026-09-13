@@ -1,0 +1,1 @@
+# sozkup-kelime-listeleri
