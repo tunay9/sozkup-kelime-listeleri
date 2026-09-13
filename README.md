@@ -11,6 +11,8 @@ ve harf sıklık verileri.
 | words_fr.txt | Fransızca | 32.188 |
 | words_pt.txt | Portekizce | 29.427 |
 | words_ru.txt | Rusça | 32.886 |
+| words_de.txt | Almanca | 28.008 |
+| words_it.txt | İtalyanca | 30.031 |
 
 `harf_frekans_*.json` dosyaları, her dilin 3-5 harfli kelimelerinden
 hesaplanmış harf sıklıklarını içerir. Oyun harf havuzunu bunlara göre
